@@ -1,0 +1,21 @@
+body{
+	font-family: 'cambria';
+	color: black;
+}
+.judul{
+	background: #075B6D;
+	padding: 10px;
+	text-align: center;
+}
+a{
+	color: greenyellow;
+	padding: 5px;
+	text-decoration: none;
+	
+}
+.table{
+	border-collapse: collapse;
+}
+table.table th th , table.table tr td{
+	padding: 10px 20px;
+}
